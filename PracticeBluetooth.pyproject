@@ -1,0 +1,8 @@
+{
+    "files": [
+        "main.py",
+        "form.ui",
+        "ScannerConfig.py",
+        "ConnectionConfig.py"
+    ]
+}
